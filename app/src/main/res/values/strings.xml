@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Buttons</string>
+    <string name="txtBotao">RAISED BUTTON</string>
+    <string name="btnFlatButton">FLAT BUTTON</string>
+</resources>
